@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-first git commit example
+This is a MLops practice project Repo
