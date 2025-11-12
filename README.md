@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-This is a MLops practice project Repo
+This is a MLops practice project Repo 
